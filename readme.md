@@ -18,11 +18,13 @@
 
 --- 
 
-## Connect with Me 👇
-[<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/vrsmps)
-[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/pinninti-sai-sukumar/)
-[<img src="https://img.icons8.com/color/48/000000/github.png"/>](https://saisukumarpinninti.github.io/resume/)
-[<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://instagram.com/unspoken_shutter)
+<!-- My GitHub Streaks  -->
+<p align="center" > <img src="http://github-readme-streak-stats.herokuapp.com?user=saisukumarpinninti&theme=onedark&hide_border=true" href="https://github.com/saisukumarpinninti"/> </p>
+
+<!-- [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saisukumarpinninti&theme=nord&hide_border=true)](https://git.io/streak-stats) -->
+
+<!-- My Trophies -->
+<p align="center"> <a href='https://github.com/saisukumarpinninti'><img src="https://github-profile-trophy.vercel.app/?username=saisukumarpinninti&theme=onedark&row=2&column=3&no-frame=true" alt="saisukumarpinninti trophies" /> </a> </p>
 
 ---
 ## My Tools 🛠
@@ -38,6 +40,12 @@
 
 ## Contact via Email 📧
 saisukumarpinniti@gmail.com
+
+## Connect with Me 👇
+[<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/vrsmps)
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/pinninti-sai-sukumar/)
+[<img src="https://img.icons8.com/color/48/000000/github.png"/>](https://saisukumarpinninti.github.io/resume/)
+[<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://instagram.com/unspoken_shutter)
 
 ---
 ## Free advice 🙂
