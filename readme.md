@@ -19,8 +19,6 @@
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/26e07f/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-php-coding-and-development-flat-flat-juicy-fish.png"/>
-
 
 ---
 ## Contact via Email 📧
