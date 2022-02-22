@@ -1,7 +1,9 @@
 ## Hey Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F7F7F7&size=36&lines=I'm+Sukumar)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisukumarpinninti&label=Profile%20views&color=0e75b6&style=flat" alt="saisukumarpinninti" /> </p>
 <a href="https://twitter.com/vrsmps"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vrsmps?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/saisukumarpinninti/)
 <br>
+
 ---
 
 * 🌱 I’m currently learning various tech that interests me.
