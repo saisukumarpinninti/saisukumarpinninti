@@ -27,9 +27,6 @@
 
 ---
 
-<br></br>
-<br></br>
-
 <h3 align="left">🖥⌨ Most used Languages </h3>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisukumarpinninti&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
