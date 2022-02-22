@@ -12,7 +12,7 @@
 [<img src="https://img.icons8.com/color/45/000000/twitter.png"/>](https://twitter.com/vrsmps)
 [<img src="https://img.icons8.com/color/45/00000/linkedin.png"/>](https://www.linkedin.com/in/pinninti-sai-sukumar/)
 [<img src="https://img.icons8.com/ios/50/000000/domain.png"/>](https://saisukumarpinninti.github.io/resume/)
-[<img src="https://img.icons8.com/color/45/000000/instagram-new.png"/>](https://instagram.com/unspoken_shutter)
+[<img src="https://icon2.cleanpng.com/20180324/xyq/kisspng-social-media-logo-computer-icons-instagram-5ab6f4c87567f9.2491142615219396564809.jpg"/>](https://instagram.com/unspoken_shutter)
 
 ---
 ## My Tools 🛠
