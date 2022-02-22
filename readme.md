@@ -3,12 +3,14 @@
 <a href="https://twitter.com/vrsmps"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vrsmps?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
 <br>
 ---
+
 * 🌱 I’m currently learning various tech that interests me.
 * ⚡ Web Dev 
 * 👀 Looking for Job & Internship
 * 🚀 Hobbies: [Photography ](https://instagram.com/unspoken_shutter)
 * 😎 Explicit and Rational Person
 * 😗 Kind of an ~~Extrovert~~
+
 ---
 
 ## Connect with Me 👇
