@@ -29,18 +29,10 @@
   
 <summary>More Skills</summary>
   
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-PremirePro&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
   
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-  
- 
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-PremirePro&logoColor=white&color=4AB197)
-  
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-  
-![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
-
 </details>
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisukumarpinninti&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
