@@ -13,6 +13,11 @@
 
 ---
 
+<!-- My GitHub Stats -->
+<p align="center"> <a href="https://github.com/saisukumarpinninti"> <img src="https://github-readme-stats.vercel.app/api?username=saisukumarpinninti&show_icons=true&theme=onedark&hide_border=true" alt="dcoded stats" /> </a> </p>
+
+--- 
+
 ## Connect with Me 👇
 [<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/vrsmps)
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/pinninti-sai-sukumar/)
