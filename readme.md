@@ -16,8 +16,8 @@
 
 ---
 ## My Tools 🛠
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/26e07f/git.png"/>
+[<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>]
+[<img src="https://img.icons8.com/color/48/26e07f/git.png"/>]
 
 ---
 ## Contact via Email 📧
