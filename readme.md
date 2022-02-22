@@ -11,7 +11,7 @@
 ## Connect with Me 👇
 [<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/vrsmps)
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/pinninti-sai-sukumar/)
-[<img src="https://img.icons8.com/stickers/100/000000/domain.png"/>](https://saisukumarpinninti.github.io/resume/)
+[<img src="https://img.icons8.com/stickers/48/000000/domain.png"/>](https://saisukumarpinninti.github.io/resume/)
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://instagram.com/unspoken_shutter)
 
 ---
