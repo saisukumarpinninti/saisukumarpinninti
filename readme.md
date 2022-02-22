@@ -13,18 +13,11 @@
 
 ---
 
-<!-- My GitHub Stats -->
-<p align="center"> <a href="https://github.com/saisukumarpinninti"> <img src="https://github-readme-stats.vercel.app/api?username=saisukumarpinninti&show_icons=true&theme=onedark&hide_border=true" alt="dcoded stats" /> </a> </p>
 
 --- 
 
 <!-- My GitHub Streaks  -->
 <p align="center" > <img src="http://github-readme-streak-stats.herokuapp.com?user=saisukumarpinninti&theme=onedark&hide_border=true" href="https://github.com/saisukumarpinninti"/> </p>
-
-<!-- [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saisukumarpinninti&theme=nord&hide_border=true)](https://git.io/streak-stats) -->
-
-<!-- My Trophies -->
-<p align="center"> <a href='https://github.com/saisukumarpinninti'><img src="https://github-profile-trophy.vercel.app/?username=saisukumarpinninti&theme=onedark&row=2&column=3&no-frame=true" alt="saisukumarpinninti trophies" /> </a> </p>
 
 ---
 ## My Tools 🛠
