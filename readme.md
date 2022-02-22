@@ -10,16 +10,14 @@
 
 ## Connect with Me 👇
 [<img src="https://img.icons8.com/color/45/000000/twitter.png"/>](https://twitter.com/vrsmps)
-[<img src="https://img.icons8.com/color/45/000000/linkedin.png"/>](https://www.linkedin.com/in/pinninti-sai-sukumar/)
+[<img src="https://img.icons8.com/color/45/00000/linkedin.png"/>](https://www.linkedin.com/in/pinninti-sai-sukumar/)
 [<img src="https://img.icons8.com/ios/50/000000/domain.png"/>](https://saisukumarpinninti.github.io/resume/)
 [<img src="https://img.icons8.com/color/45/000000/instagram-new.png"/>](https://instagram.com/unspoken_shutter)
 
 ---
 ## My Tools 🛠
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/26e07f/git.png"/>
-
-
 
 ---
 ## Contact via Email 📧
