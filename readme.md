@@ -1,6 +1,8 @@
-## Hey Folks, I'm Sai Sukumar Pinninti 👋
-
-* 💡 Learning the living
+## Hey Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> , I'm Sai Sukumar Pinninti
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisukumarpinninti&label=Profile%20views&color=0e75b6&style=flat" alt="saisukumarpinninti" /> </p>
+[<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/vrsmps) <a href="https://twitter.com/vrsmps"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vrsmps?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
+---
+* 🌱 I’m currently learning various tech that interests me.
 * ⚡ Web Dev 
 * 👀 Looking for Job & Internship
 * 🚀 Hobbies: [Photography ](https://instagram.com/unspoken_shutter)
@@ -21,6 +23,14 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 ---
+
+<br></br>
+<br></br>
+
+<h3 align="left">🖥⌨ Most used Languages </h3>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisukumarpinninti&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact via Email 📧
 saisukumarpinniti@gmail.com
 
