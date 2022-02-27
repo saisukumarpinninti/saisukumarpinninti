@@ -39,8 +39,9 @@
 # Github Stats 📊
 <p align="Left" > <img src="http://github-readme-streak-stats.herokuapp.com?user=saisukumarpinninti&theme=onedark&hide_border=true" href="https://github.com/saisukumarpinninti"/></p>
 
+<p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisukumarpinninti&layout=compact&theme=tokyonight)
-
+</p>
 
 
 ---
