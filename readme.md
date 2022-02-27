@@ -10,8 +10,8 @@
 
  
 ## 💼 Skills
-<img src="https://img.icons8.com/color/48/000000/python--v2.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" style="padding-right:10px;" />
+<imgalign="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/26e07f/git.png"/>
@@ -24,6 +24,7 @@
   
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-PremirePro&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197) 
  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+ <img align="left" alt="Intellij Idea" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
   
 </details>
 ---
