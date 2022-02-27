@@ -19,6 +19,7 @@
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 
+---
 
 <details>
 <summary>  More Skills & Tools</summary>
