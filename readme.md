@@ -11,6 +11,7 @@
 * 😗 Kind of an ~~Extrovert~~
 
 ---
+ 
 ## 💼 Skills
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -18,10 +19,9 @@
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/26e07f/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 
 <details>
-  
+ 
 <summary>More Skills & Tools</summary>
   
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-PremirePro&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197) ![]<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
