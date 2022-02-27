@@ -8,7 +8,6 @@
 * 🚀 Hobbies: [Photography](https://instagram.com/unspoken_shutter)
 * 😗 Kind of an ~~Extrovert~~
 
----
  
 ## 💼 Skills
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
@@ -22,9 +21,9 @@
  
 <summary>More Skills & Tools</summary>
   
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-PremirePro&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197) ![]<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-PremirePro&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197) 
+ <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   
- 
 </details>
 ---
 
