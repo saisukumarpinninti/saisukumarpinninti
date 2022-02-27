@@ -19,8 +19,6 @@
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <br />
 
----
-
 <details>
 <summary>  More Skills & Tools</summary>
 <img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" ">
@@ -33,10 +31,12 @@
 <img align="left" alt="PhotoShop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
 <img align="left" alt="premierepro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" style="padding-right:10px;" />
-
+<br />
 </details>
 
 ---
+
+# Github Stats 📊
 <p align="center" > <img src="http://github-readme-streak-stats.herokuapp.com?user=saisukumarpinninti&theme=onedark&hide_border=true" href="https://github.com/saisukumarpinninti"/> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisukumarpinninti&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
