@@ -3,8 +3,6 @@
 [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge)](https://saisukumarpinninti.github.io/resume/)
 <br>
 
----
-
 * 🌱 I’m currently learning various tech that interests me.
 * 👀 Looking for Job & Internship
 * 🚀 Hobbies: [Photography](https://instagram.com/unspoken_shutter)
@@ -26,7 +24,7 @@
   
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-PremirePro&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197) ![]<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   
-  
+ 
 </details>
 ---
 
