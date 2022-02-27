@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+Folks+%F0%9F%91%8B)</br>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Sukumar)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+Folks👋 ,+I'm+Sukumar)</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisukumarpinninti&label=Profile%20views&color=0e75b6&style=flat" alt="saisukumarpinninti" /> </p
 [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge)](https://saisukumarpinninti.github.io/resume/)
 <br>
