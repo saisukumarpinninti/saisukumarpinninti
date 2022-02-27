@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A5DAF7&duration=2000&center=true&vCenter=true&multiline=true&lines=Hey+Folks%F0%9F%91%8B%2C;I'm+Sukumar)]
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A5DAF7&duration=2000&center=true&multiline=true&lines=Hey+Folks%F0%9F%91%8B%2C;I'm+Sukumar)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisukumarpinninti&label=Profile%20views&color=0e75b6&style=flat" alt="saisukumarpinninti" /> </p
 [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge)](https://saisukumarpinninti.github.io/resume/)
 <br>
