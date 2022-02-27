@@ -1,4 +1,4 @@
-##Hey Folks , [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F7F7F7&size=36&lines= I'm+Sukumar👋)}
+##Hey Folks , {[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F7F7F7&size=36&lines= I'm+Sukumar👋)}
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisukumarpinninti&label=Profile%20views&color=0e75b6&style=flat" alt="saisukumarpinninti" /> </p
 
 
