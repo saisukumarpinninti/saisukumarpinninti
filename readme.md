@@ -17,7 +17,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MongoDb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-
+<br/>
 ---
 <br/>
 <details>
@@ -36,14 +36,12 @@
 </details>
 
 ---
-
+<br/>
 # Github Stats 📊
 <p  > <img src="http://github-readme-streak-stats.herokuapp.com?user=saisukumarpinninti&theme=onedark&hide_border=true" href="https://github.com/saisukumarpinninti"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisukumarpinninti&layout=compact&theme=tokyonight)
 </p>
-
-
 
 ## Contact via Email 📧
 saisukumarpinniti@gmail.com
@@ -55,7 +53,7 @@ saisukumarpinniti@gmail.com
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://instagram.com/unspoken_shutter)
 
 ---
-## Free advice 🙂
+## End 🙂
 
 > ### *Live the life you live as you want to *
 
