@@ -62,7 +62,8 @@ saisukumarpinniti@gmail.com
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisukumarpinninti&" alt="saisukumarpinninti" /></p>
 
 ## Here's a funny Meme 🤣 :
-![Image of Yaktocat](https://programmerhumor.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/02/programmerhumor-io-javascript-memes-python-memes-16feac2cf74c334-608x1091.jpg.webp)
+<img src="https://programmerhumor.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/02/programmerhumor-io-javascript-memes-python-memes-16feac2cf74c334-608x1091.jpg" width="300px" height = 600px />
+
 
 > ### *Live the life you live as you want to *
 > ### Thanks to check this out. Good Luck. ✨
