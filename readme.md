@@ -14,22 +14,32 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 </br>
 
+<details>
+<summary><b>FrameWorks</b></summary>
+<img align="left" alt="Spring-Core" width="40px" src="https://javabycode.com/wp-content/uploads/2017/02/Spring_Core_component_scan.png" style="padding-right:10px;"/>
+
+<img align="left" alt="SpringMVC" width="30px" src="https://camo.githubusercontent.com/9c8eef80636ac8a6f3846c326175ff2508a8ec7f907f9a8e11b8e7c7258e8cac/68747470733a2f2f737461636b6a6176612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31322f737072696e672d6d76632d6c6f676f2e706e67" style="padding-right:10px;"/>
+<img align="left" alt="SpringSecurity" width="30px" src="https://camo.githubusercontent.com/3aaf65a3c998080c5879e8f88b5e4131106514e9fb1a1eae66bbda60e19ad843/68747470733a2f2f692e6d6f72696f682e636f6d2f3230303632382f65336431376335662e6a7067" style="padding-right:10px;"/>
+<img align="left" alt="SpringBootRest" width="60px" src="https://blogs.tensult.com/wp-content/uploads/2019/11/Spring-boot-rest-api-1536x597.png" style="padding-right:10px;"/>
+</details>
+<br>
+
 - ### Web Technologies
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//javascript/javascript-original.svg" style="padding-right:10px;" />
 </br>
 
-- ### Database
+- ### Backend
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MongoDb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="PHP" width="26px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" />
 <br/>
 <br/>
-<details>
-<summary>  More Skills & Tools</summary>
-<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" ">
+
+
+- ### More Skills And Tools 
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;">
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
