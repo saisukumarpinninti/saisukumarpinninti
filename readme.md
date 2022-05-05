@@ -21,13 +21,17 @@
 <img align="left" alt="SpringMVC" width="30px" src="https://camo.githubusercontent.com/9c8eef80636ac8a6f3846c326175ff2508a8ec7f907f9a8e11b8e7c7258e8cac/68747470733a2f2f737461636b6a6176612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31322f737072696e672d6d76632d6c6f676f2e706e67" style="padding-right:10px;"/>
 <img align="left" alt="SpringSecurity" width="30px" src="https://camo.githubusercontent.com/3aaf65a3c998080c5879e8f88b5e4131106514e9fb1a1eae66bbda60e19ad843/68747470733a2f2f692e6d6f72696f682e636f6d2f3230303632382f65336431376335662e6a7067" style="padding-right:10px;"/>
 <img align="left" alt="SpringBootRest" width="60px" src="https://blogs.tensult.com/wp-content/uploads/2019/11/Spring-boot-rest-api-1536x597.png" style="padding-right:10px;"/>
+<img align="left" alt="SpringCloud" width="30px" src="https://www.pinclipart.com/picdir/big/336-3363961_spring-boot-cloud-microservices-clipart.png
+" style="padding-right:10px;"/>
 </details>
 
+<br>
 
 - ### Web Technologies
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//javascript/javascript-original.svg" >
+<img align="left" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.png" style="padding-right:10px;" / >
 </br>
 
@@ -41,6 +45,7 @@
 
 
 - ### More Skills And Tools 
+<img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;">
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
