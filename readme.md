@@ -12,9 +12,9 @@
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
-</br>
 
-<details>
+-
+<details> 
 <summary><b>FrameWorks</b></summary>
 <img align="left" alt="Spring-Core" width="40px" src="https://javabycode.com/wp-content/uploads/2017/02/Spring_Core_component_scan.png" style="padding-right:10px;"/>
 
@@ -22,12 +22,13 @@
 <img align="left" alt="SpringSecurity" width="30px" src="https://camo.githubusercontent.com/3aaf65a3c998080c5879e8f88b5e4131106514e9fb1a1eae66bbda60e19ad843/68747470733a2f2f692e6d6f72696f682e636f6d2f3230303632382f65336431376335662e6a7067" style="padding-right:10px;"/>
 <img align="left" alt="SpringBootRest" width="60px" src="https://blogs.tensult.com/wp-content/uploads/2019/11/Spring-boot-rest-api-1536x597.png" style="padding-right:10px;"/>
 </details>
-<br>
+
 
 - ### Web Technologies
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//javascript/javascript-original.svg" >
+<img align="left" alt="angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.png" style="padding-right:10px;" / >
 </br>
 
 - ### Backend
