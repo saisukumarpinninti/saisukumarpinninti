@@ -76,10 +76,9 @@ saisukumarpinniti@gmail.com
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisukumarpinninti&" alt="saisukumarpinninti" /></p>
 
 ## Here's a funny Meme 🤣 :
-<img src="https://programmerhumor.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/02/programmerhumor-io-javascript-memes-python-memes-16feac2cf74c334-608x1091.jpg" width="300px" height = 600px />
+<img src="https://programmerhumor.io/wp-content/uploads/2022/04/programmerhumor-io-java-memes-programming-memes-ae1d3c1e85885c0.jpg" width="500px" height = 400px />
 
 
-> ### *Live the life you live as you want to *
-> ### Thanks to check this out. Good Luck. ✨
+> ### Thanks For checking this out. Good Luck. ✨
 ---
 ## End 🙂
