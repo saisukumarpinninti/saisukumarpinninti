@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sukumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
--  🌱I’m a **Java Full Stack Developer ** .
+-  🌱I’m a **Java Full Stack Developer** .
 -  📄 Know about my experiences [Here.](https://saisukumarpinninti.github.io/resume/)
 -  🚀 Hobbies: [Photography](https://instagram.com/unspoken_shutter)
 -  😗 Kind of an ~~Extrovert~~
