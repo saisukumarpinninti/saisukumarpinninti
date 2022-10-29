@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sukumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Software developer from India</h3>
 
 -  🌱I’m a **Java Full Stack Developer** .
 -  📄 Know about my experiences [Here.](https://saisukumarpinninti.github.io/resume/)
 -  🚀 Hobbies: [Photography](https://instagram.com/unspoken_shutter)
--  😗 Kind of an ~~Extrovert~~
 
 ## 💼 Skills
 
@@ -40,21 +39,24 @@
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="PHP" width="26px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" />
 <br/>
-<br/>
 
+
+- ### BPMN
+<img align="left" alt="JBPM" width="50px" src="https://www.jbpm.org/headerFooter/jBPMLogo_siteheader.png" style="padding-right:10px; "/>
+<br/>
 
 - ### More Skills And Tools 
 <img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;">
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="Canava" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;">
 <img align="left" alt="Intellij Idea" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" />
+
 <img align="left" alt="PhotoShop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
 <img align="left" alt="premierepro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="padding-right:10px;" />
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" style="padding-right:10px;" />
+
 <br />
 </details>
 
